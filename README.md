@@ -5,8 +5,10 @@ I hope the tools in the repository will help you. Also, it will be appreciated i
 
 ## Notification
 
-The repository SUT of Tresol is licensed under theApache License 2.0. Please follow the license and contribute to the Open-Source community together.
+The repository SUT of Tresol is licensed under the GPL 3.0 License. Please follow the license and contribute to the Open-Source community together.
 
 ## Report
 
 If you find something incorrect or illegal in my repository, please report it to me.
+
+My email is <tresol@163.com>.
