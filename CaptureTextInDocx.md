@@ -1,0 +1,3 @@
+This is the introdoction for the python tool CaptureTextInDocx.
+
+# To Be Continued...
