@@ -2,7 +2,7 @@
 
 Do you know what is SUT?
 
-SUT refers to the repository called Some Useful Tools, which stores some useful tools I have used in my computer.
+SUT refers to the repository called Some Useful Tools, which stores some useful tools I have used in my computer. It owns a GitHub page at [SUT](http://tresol.github.io/SUT/).
 
 I hope the tools in the repository will help you. Also, it will be appreciated if you fork and star my repository.
 
